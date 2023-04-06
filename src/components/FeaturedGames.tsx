@@ -2,7 +2,7 @@ import React from 'react'
 
 const FeaturedGames = () => {
   return (
-    <div>FeaturedGames</div>
+    <div id='gallery'>FeaturedGames</div>
   )
 }
 
